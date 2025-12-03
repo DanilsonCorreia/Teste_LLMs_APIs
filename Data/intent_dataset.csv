@@ -1,0 +1,156 @@
+Texto,Intencao
+"Quero um roteiro de 3 dias em Lisboa",roteiro
+"Monte um roteiro de viagem para Madrid",roteiro
+"Quais eventos culturais estão acontecendo no Porto?",eventos
+"Mostre-me concertos este fim de semana em Barcelona",eventos
+"Como vai estar o clima em Lisboa amanhã?",clima
+"Vai chover no Algarve neste sábado?",clima
+"Quero saber a previsão do tempo para Madrid",clima
+"Como posso ir de Lisboa para o Porto?",transporte
+"Existe comboio de Coimbra para Braga?",transporte
+"Qual a melhor rota de carro de Sevilha para Faro?",transporte
+"Quero recomendações de restaurantes em Lisboa",pois
+"Mostre praias próximas de Valência",pois
+"Quais museus visitar em Madrid?",pois
+"Quero sugestões de locais históricos em Évora",pois
+"Quero criar um roteiro de 2 dias com foco em praias e cultura",roteiro
+"Planeje uma viagem em grupo para o Algarve",roteiro
+"Mostre eventos de música em Lisboa",eventos
+"Quero saber se há festas populares em Braga",eventos
+"Mostre a rota dos moinhos em Bragança",rotas
+"Quais são as melhores trilhas para caminhadas em Sintra?",rotas
+"Rota histórica dos castelos no norte de Portugal",rotas
+"Trilha do vinho em Vila Real",rotas
+"Roteiro das praias do Algarve para um dia de carro",roteiro
+"Roteiro gastronômico em Lisboa",roteiro
+"Rota de bicicleta pelo Parque Natural da Arrábida",rotas
+"Roteiro cultural de Lisboa incluindo museus e monumentos",roteiro
+"Crie um roteiro de 5 dias em Roma",roteiro
+"Monte um itinerário de viagem para Paris com foco em gastronomia",roteiro
+"Quais feiras culturais vão acontecer em Lisboa este mês?",eventos
+"Mostre shows de jazz em Barcelona na próxima semana",eventos
+"Qual a temperatura máxima esperada para Sevilha amanhã?",clima
+"Vai nevar em Madrid este fim de semana?",clima
+"Qual o horário do primeiro comboio de Porto para Lisboa?",transporte
+"Existe voo direto de Faro para Lisboa?",transporte
+"Quais restaurantes em Lisboa têm menu vegetariano?",pois
+"Mostre parques e áreas verdes em Valência",pois
+"Quais igrejas históricas visitar em Toledo?",pois
+"Sugira passeios para um fim de semana romântico em Sintra",roteiro
+"Planeje uma viagem econômica para Barcelona",roteiro
+"Eventos de teatro em Lisboa este mês",eventos
+"Há festivais tradicionais acontecendo em Coimbra?",eventos
+"Liste as principais atrações turísticas de Lisboa",pois
+"Resumo das condições climáticas de Madrid para os próximos 3 dias",clima
+"Resumo das opções de transporte entre Porto e Lisboa",transporte
+"Lista de restaurantes mais avaliados em Barcelona",pois
+"Eventos culturais e musicais em Lisboa resumidos",eventos
+"Principais pontos turísticos históricos de Évora",pois
+"Recomendações de roteiros curtos em Algarve",roteiro
+"Quais dicas você tem para aproveitar 3 dias em Lisboa?",roteiro
+"Como posso organizar um roteiro de viagem para Madrid com crianças?",roteiro
+"Me ajude a planejar uma visita rápida a museus em Porto",roteiro
+"Que transporte é mais rápido de Lisboa para Sevilha?",transporte
+"Você pode sugerir restaurantes para um jantar romântico em Valência?",pois
+"Quais eventos imperdíveis estão acontecendo no Algarve este mês?",eventos
+"Olá",chat
+"Oi",chat
+"Bom dia",chat
+"Boa tarde",chat
+"Boa noite",chat
+"Tudo bem?",chat
+"Como vai?",chat
+"Como você está?",chat
+"Oi, tudo certo?",chat
+"Prazer em falar com você",chat
+"Como posso te chamar?",chat
+"Você está aí?",chat
+"Tá me ouvindo?",chat
+"Olá, tudo bom contigo?",chat
+"Oi, gostaria de conversar",chat
+"Olá, está disponível?",chat
+"Bom te ver de novo",chat
+"Olá, voltei",chat
+"Estou de volta",chat
+"Obrigado",chat
+"Muito obrigado",chat
+"Valeu!",chat
+"Agradeço pela ajuda",chat
+"Perfeito, obrigado",chat
+"Legal!",chat
+"Show!",chat
+"Top!",chat
+"Interessante",chat
+"Que legal!",chat
+"Adorei",chat
+"Gostei bastante",chat
+"Estou animado",chat
+"Estou empolgado",chat
+"Estou cansado hoje",chat
+"Estou só testando",chat
+"Só queria ver se funciona",chat
+"Estou explorando o sistema",chat
+"Vamos conversar um pouco",chat
+"Pode me ajudar?",chat
+"Oi, tudo certo por aí?",chat
+"Beleza?",chat
+"Tá tudo bem?",chat
+"Como foi seu dia?",chat
+"Tenha um bom dia!",chat
+"Boa noite pra você",chat
+"Até logo",chat
+"Tchau",chat
+"Até mais",chat
+"Falamos depoiss",chat
+"Foi bom conversar com você",chat
+"Até a próxima",chat
+"Quais tipos de roteiros você pode criar?",meta
+"Que informações sobre eventos culturais você consegue fornecer?",meta
+"Posso pedir a previsão do tempo de qualquer cidade?",meta
+"Você consegue sugerir restaurantes, museus e pontos turísticos?",meta
+"É possível obter rotas de transporte entre cidades?",meta
+"Pode ajudar a planejar viagens curtas ou longas?",meta
+"Você mostra trilhas ou rotas turísticas específicas?",meta
+"O que você pode fazer?",meta
+"Que tipo de informações você fornece?",meta
+"Você consegue montar roteiros de viagem?",meta
+"Pode me mostrar eventos culturais?",meta
+"Você sabe a previsão do tempo de cidades?",meta
+"Consegue indicar restaurantes ou pontos turísticos?",meta
+"Pode planejar rotas de transporte?",meta
+"Você tem informações sobre trilhas e rotas turísticas?",meta
+"Como você pode me ajudar a planejar uma viagem?",meta
+"Pode resumir o que é possível fazer aqui?",meta
+"Mostre tudo o que o sistema consegue responder",meta
+"Quais são suas principais funcionalidades?",meta
+"Você entende perguntas sobre clima, eventos e transporte?",meta
+"O que posso visitar no Porto?",pois
+"Quais são os pontos turísticos de Lisboa?",pois
+"Me fale sobre os museus em Madrid",pois
+"Quais praias são imperdíveis no Algarve?",pois
+"Quais são os melhores restaurantes em Barcelona?",pois
+"Quais parques visitar em Valência?",pois
+"Quais são os locais históricos em Évora?",pois
+"Quais trilhas para caminhadas existem em Sintra?",rotas
+"Quais castelos visitar no norte de Portugal?",pois
+"Quais vinícolas posso conhecer em Vila Real?",pois
+"Quais são as melhores trilhas para bicicleta na Arrábida?",rotas
+"Quais são as atrações culturais em Lisboa?",pois
+"Quais são os eventos desportivos em Barcelona?",eventos
+"Quais festivais gastronômicos estão acontecendo em Madrid?",eventos
+"Quais exposições de arte estão em exibição no Porto?",eventos
+"Quais são os eventos de música ao vivo em Lisboa?",eventos
+"Quais peças de teatro estão em cartaz em Sevilha?",eventos
+"Quais são os eventos tradicionais em Coimbra?",eventos
+"Quais são os eventos de dança em Valência?",eventos
+"Quais são os eventos literários em Évora?",eventos
+"Onde posso encontrar informações sobre eventos culturais?",meta
+"Como saber sobre eventos musicais na cidade?",meta
+"Como descobrir eventos de teatro locais?",meta
+"Como encontrar festivais gastronômicos?",meta
+"Como obter detalhes sobre exposições de arte?",meta
+"Como me informar sobre eventos desportivos?",meta
+"Como ficar sabendo dos eventos tradicionais?",meta
+"Locais para visitar em Bragança",pois
+"Fala-me um pouco sobre ti",meta
+"Vou para bragança no proximo fim de semana, o que me aconselhas fazer?"roteiro"
